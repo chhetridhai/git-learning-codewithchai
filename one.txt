@@ -1,1 +1,2 @@
 This is first file
+Add another file in the folder of using commit after setting the main file
